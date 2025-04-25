@@ -1,5 +1,5 @@
 /*
-Integrante: Angelo Gonzalez
+Integrante: Angelo 
 Profesor(a): Jorge cornejo
 Sección: 301
 Compilador utilizado: repl.it
